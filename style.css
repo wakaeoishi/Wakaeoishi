@@ -106,25 +106,19 @@ h2{
     gap:20px;
 }
 
-.gallery img{old;
+.gallery img{
+    width:100%;
+    border-radius:15px;
+    box-shadow:0 5px 15px rgba(0,0,0,.15);
     transition:.3s;
 }
+
 
 nav a:hover{
     color:#d8c29d;
 }
 
-.hero{
-    background-image:url("./Susu.png");
-    background-size:cover;
-    background-position:center;
-    background-repeat:no-repeat;
-    color:white;
-    text-align:
-    width:100%;
-    border-radius:15px;
-    box-shadow:0 5px 15px rgba(0,0,0,.15);
-}
+
 
 ul{
     list-style:none;
