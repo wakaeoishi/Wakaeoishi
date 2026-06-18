@@ -45,7 +45,13 @@ nav a:hover{
     background-repeat:no-repeat;
     color:white;
     text-align:center;
-    padding:120px 20px;
+    text-shadow:2px 2px 8px rgba(0,0,0,.8);
+    min-height:70vh;
+    padding:80px 20px;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
 }
 
 .hero h1{
